@@ -1,0 +1,50 @@
+<annotation>
+    <folder>Crosswalk</folder>
+    <filename>Cross (57).png</filename>
+    <path>C:\Users\janku\Documents\AI\Projects\GoogleReCaptcha\archive\Google_Recaptcha_V2_Images_Dataset\images\Crosswalk\Cross (57).png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>120</width>
+        <height>120</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Crosswalk</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>74</xmin>
+            <ymin>81</ymin>
+            <xmax>119</xmax>
+            <ymax>99</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Crosswalk</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>38</xmin>
+            <ymin>76</ymin>
+            <xmax>76</xmax>
+            <ymax>91</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Crosswalk</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>73</ymin>
+            <xmax>40</xmax>
+            <ymax>85</ymax>
+        </bndbox>
+    </object>
+</annotation>

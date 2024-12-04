@@ -1,0 +1,2 @@
+Total time: 575.5514414310455 seconds
+Time per image: 4.641543882508432 seconds

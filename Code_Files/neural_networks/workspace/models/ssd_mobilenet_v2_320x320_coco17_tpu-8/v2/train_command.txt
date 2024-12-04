@@ -1,0 +1,5 @@
+conda activate venvMaturaarbeit
+
+cd C:\Users\janku\PycharmProjects\Maturitaetsarbeit\Python_Code\NN_bbox\Tensorflow\workspace
+
+python model_main_tf2.py --pipeline_config_path=./models/ssd_mobilenet_v2_320x320_coco17_tpu-8/v2/pipeline.config --model_dir=./models/ssd_mobilenet_v2_320x320_coco17_tpu-8/v2 --checkpoint_every_n=100 --num_workers=7 --alsologtostderr

@@ -1,0 +1,1 @@
+C:\Users\janku\anaconda3\envs\venvMaturaarbeit\python.exe create_tf_records_using_trimap.py --image_dir=C:\Users\janku\Downloads\images.tar\images --annotations_file=

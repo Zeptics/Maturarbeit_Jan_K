@@ -1,0 +1,1 @@
+In diese Ordner können die Modelle und Resultate gespeichert werden, die vom *train_save_and_evaluate_models.py* Skript trainiert werden.
